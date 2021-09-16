@@ -1,0 +1,22 @@
+RADIO MOBILE
+
+22:32
+AIRLINK DE UBIQUITI 
+
+
+
+°ᴱᴸᵛⁱˢ°㊜ ぎℓ℣ϟร
+彡ᴮᴬᴰʙᴏʏ彡ﺤ 乡
+
+
+
+elvisgutierrezc3@gmail.com
+git init
+git add .
+git status // verificar
+git commit -m "primer commid"
+git remote add origin https://github.com/ElvysGames/probando1.git
+git push -u origin MASTER
+
+token
+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
